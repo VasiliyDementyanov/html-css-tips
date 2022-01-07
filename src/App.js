@@ -13,8 +13,12 @@ function App() {
       
       <div>  
         <h1>H1</h1>
-		    
-        <p>Paragraph</p>
+		<div className='outerparagraph'>
+			<p>Paragraph</p>
+			<div>
+				<p>Inner paragraph</p>
+			</div>
+		</div>
 		    
         <p>
 			<span>
