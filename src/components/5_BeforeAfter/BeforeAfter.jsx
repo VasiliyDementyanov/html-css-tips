@@ -1,4 +1,4 @@
-import "./Background.css";
+import "./BeforeAfter.css";
 
 // Block elements
 function BeforeAfter() {

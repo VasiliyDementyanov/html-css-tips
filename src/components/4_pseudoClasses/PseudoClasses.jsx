@@ -1,4 +1,4 @@
-import "./Background.css";
+import "./PseudoClasses.css";
 
 // Block elements
 function PseudoClasses() {
